@@ -11,7 +11,7 @@ Firstly, git clone this repository.
 
 ``git clone https://github.com/BillySap12/Tool-Gatherer.git``
 
-Once you have sucesssfully git cloned the repository, cd into the directory.
+Once you have sucessfully git cloned the repository, cd into the directory.
 
 ``cd Tool-Gatherer``
 
