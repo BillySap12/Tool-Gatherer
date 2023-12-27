@@ -39,7 +39,7 @@ MHDDoS: MatrixTM (https://github.com/MatrixTM/MHDDoS)
 
 CC-attack: Leeon123 (https://github.com/Leeon123/CC-attack)
 
-DDos-Ripper: palahsu (https://github.com/palahsu/DDoS-Ripper)
+DDoS-Ripper: palahsu (https://github.com/palahsu/DDoS-Ripper)
 
 ZPhisher: htr-tech (https://github.com/htr-tech/zphisher)
 
