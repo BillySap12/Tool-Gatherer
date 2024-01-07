@@ -136,7 +136,7 @@ ________________________________________________________________________________
             self.window.geometry("300x300")
             self.window.config(bg='black')
 
-            self.label = Label(self.window, text="LIST OF DDoS TOOLS:", font=('Arial', 15), fg='green', bg='black')
+            self.label = Label(self.window, text="LIST OF PHISHING TOOLS:", font=('Arial', 15), fg='green', bg='black')
             self.label.pack(padx=10, pady=20)
 
             self.label = Label(self.window, text="• ZPhisher", font=('Arial', 15), fg='green', bg='black')
