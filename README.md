@@ -19,7 +19,7 @@ Once you have done that, the rest is simple, just run the python file.
 
 ``python3 main.py``
 
-You will see a username and password login page. The username is **admin5**, and the password is **Bre@akFree**
+You will see a username and password login page. The username is **admin5**, and the password is **Bre@kFree**
 
 You sucessfully started the program! Congrats!
 
