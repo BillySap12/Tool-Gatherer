@@ -4,6 +4,8 @@ A python program which shows tools of a certain category and lets the user downl
 
 Tool gatherer is a basic tool scripted by **BillySap12** using Python Tkinter. The user has a list of 3 categories, which all of them contain 3 tools in total. The first category is **OSINT**, the second category is **DDoS** and the third category is **Phishing.**
 
+This tool I made in 2023 was my first ever real project. Thank you for your support throughout these years. This tool is no longer maintained and will not receive updates or changes. 
+
 # Installation
 
 The installation is simple.
